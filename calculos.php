@@ -1,4 +1,5 @@
 <?php
+    /* painel que serve para ensurar valores */
     //***************Cálculos referente as visualizações de desempenho de cada loja***************//
     include_once("conn/conn.php");
     //pega as datas de comparação
