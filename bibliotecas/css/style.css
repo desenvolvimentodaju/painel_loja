@@ -1,0 +1,96 @@
+.div-tabelas{
+    font-size: medium!important;
+}
+.table.pink thead{
+    font-size: 1rem!important;
+}
+.table.pink tbody{
+    font-size: 0.9rem!important;
+    font-weight: 600;
+}
+
+/* Cores Daju */
+.cinza-daju{
+    color: rgb(130, 139, 148) !important;
+}
+.azul-escuro-daju{
+    color: rgb(20,40,65) !important;
+}
+.roxo-daju{
+    color: rgb(54, 30, 66) !important;
+}
+.areia-daju{
+    color: rgb(217, 203, 148) !important;
+}
+.azul-claro-daju{
+    color: rgb(0,146,149)!important;
+}
+.azul-claro-daju:hover{
+    color: rgb(20,40,65)!important;
+}
+.rosa-daju{
+    color: rgb(114, 27, 86) !important;
+}
+.bck-azul-hiper-daju{
+    background-color: #00b0f0 !important;
+}
+    .bck-azul-hiper-daju:hover{
+        background-color: rgb(20,40,65) !important;
+    }
+.bck-cinza-daju{
+    background-color: rgb(130, 139, 148) !important;
+}
+.bck-azul-escuro-daju{
+    background-color: rgb(20,40,65) !important;
+}
+    .bck-azul-escuro-daju:hover{
+        color: rgb(20,40,65) !important;
+        background-color: rgb(0,146,149) !important;
+    }
+.bck-roxo-daju{
+    background-color: rgb(54, 30, 66) !important;
+}
+.bck-areia-daju{
+    background-color: rgb(217, 203, 148) !important;
+}
+.bck-azul-claro-daju{
+    background-color: rgb(0,146,149) !important;
+}
+    .bck-azul-claro-daju:hover{
+        color: rgb(0,146,149) !important;
+        background-color: rgb(20,40,65) !important;
+    }
+.bck-rosa-daju{
+    background-color: rgb(114, 27, 86) !important;
+    color: white !important;
+    font-weight: 700;
+}
+.border-color-azul-claro-daju{
+    border-color: rgb(0,146,149);
+}
+    .border-color-azul-claro-daju:hover{
+        border-color: rgb(20,40,65);
+    }
+
+/* Sizes */
+.w-20{
+    width: 20%;
+}
+.str-to-cap{
+    text-transform: capitalize!important;
+}
+.str-to-upp{
+    text-transform: uppercase!important;
+}
+
+.table-striped tbody tr:nth-of-type(odd){
+    background-color: rgba(0, 0, 0, 0.151);
+}
+
+.w-90{
+    width: 90%!important;
+}
+
+.w-95{
+    width: 95%!important;
+}

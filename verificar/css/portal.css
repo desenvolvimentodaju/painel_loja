@@ -1,0 +1,115 @@
+*{
+    font-size: .8rem;
+}
+.conteudo{
+    max-width: 100vw;
+    overflow-x:scroll;
+}
+nav{
+    width: 100vw;
+}
+.lista{
+    font-size: 12px;
+}
+#conteudo td{
+    font-weight: bold;
+}
+#validar{
+    min-width:95px;
+    /* width:100px; */
+    max-width:150px;
+    text-align: center;
+}
+#grupo{
+    min-width:140px;
+    max-width:250px;
+    text-align: center;
+}
+#cod_barras{
+    min-width:125px;
+    /* width:150px; */
+    max-width:250px;
+    text-align: center;
+}
+#descricao{
+    min-width:350px;
+    max-width:400px;
+    text-align: center;
+}
+#fornecedor{
+    min-width:250px;
+    max-width:300px;
+    text-align: center;
+}
+#status_produto{
+    min-width:200px;
+    width:250px;
+    max-width:350px;
+    text-align: center;
+}
+#preco_de{
+    min-width:110px;
+    width:100px;
+    max-width:150px;
+    text-align: center;
+}
+#preco_por{
+    min-width:100px;
+    max-width:150px;
+    text-align: center;
+}
+#preco_pos{
+    min-width:110px;
+    max-width:150px;
+    text-align: center;
+}
+#promocao_pos{
+    min-width:110px;
+    max-width:250px;
+    text-align: center;
+}
+#desconto{
+    min-width:100px;
+    max-width:120px;
+    text-align: center;
+}
+#acao{
+    min-width:90px;
+   -width:90px;
+    max-width:150px;
+    text-align: center;
+}
+#data_inicio{
+    min-width:120px;
+    width:120px;
+    max-width:150px;
+    text-align: center;
+}
+#data_fim{
+    min-width:120px;
+    width:120px;
+    max-width:150px;
+    text-align: center;
+}
+#departamento{
+    min-width:240px;
+    text-align: center;
+}
+#situacao{
+    min-width:120px;
+    width:120px;
+    max-width:150px;
+    text-align: center;
+}
+#meio{
+    min-width:120px;
+    width:120px;
+    max-width:150px;
+    text-align: center;
+}
+#status_promocao{
+    min-width:90px;
+   -width:90px;
+    max-width:150px;
+    text-align: center;
+}
