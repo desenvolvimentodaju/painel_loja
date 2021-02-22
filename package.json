@@ -1,0 +1,29 @@
+{
+  "name": "painel_loja",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desenvolvimentodaju/painel_loja.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/desenvolvimentodaju/painel_loja/issues"
+  },
+  "homepage": "https://github.com/desenvolvimentodaju/painel_loja#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "html": "^1.0.0",
+    "pdf": "^0.1.0"
+  }
+}
